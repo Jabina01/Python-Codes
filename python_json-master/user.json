@@ -1,0 +1,62 @@
+{
+  "Karuna@123": [
+    {
+      "name": "Karana",
+      "password": "Karuna@123",
+      "describtion": "wer",
+      "DOB": "wer",
+      "Hobbies": "wert",
+      "Gender": "wer"
+    }
+  ],
+  "Kavi@1234": [
+    {
+      "name": "Kavi",
+      "password": "Kavi@1234",
+      "describtion": "erty",
+      "DOB": "erty",
+      "Hobbies": "ertyu",
+      "Gender": "tyu"
+    }
+  ],
+  "Jabeena@123": [
+    {
+      "name": "jabeena",
+      "password": "Jabeena@123",
+      "describtion": "werty",
+      "DOB": "wert",
+      "Hobbies": "wert",
+      "Gender": "wer"
+    }
+  ],
+  "Aabiru@123": [
+    {
+      "name": "aabiru",
+      "password": "Aabiru@123",
+      "describtion": "rety",
+      "DOB": "wewerr",
+      "Hobbies": "qwerr",
+      "Gender": "qwer"
+    }
+  ],
+  "Sabu@123": [
+    {
+      "name": "sabu",
+      "password": "Sabu@123",
+      "describtion": "wert",
+      "DOB": "wert",
+      "Hobbies": "wert",
+      "Gender": "ewrt"
+    }
+  ],
+  "Munakshi@123": [
+    {
+      "name": "munakshi",
+      "password": "Munakshi@123",
+      "describtion": "ert",
+      "DOB": "wert",
+      "Hobbies": "werty",
+      "Gender": "dfgh"
+    }
+  ]
+}

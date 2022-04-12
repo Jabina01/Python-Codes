@@ -1,0 +1,38 @@
+[
+   {
+      "current_location": "khopi",
+      "drop_location": "pune",
+      "driver_name": "aslam",
+      "cab_number": "MH-23",
+      "cab_colour": "black",
+      "rating": 1,
+      "feed_back": "good"
+   },
+   {
+      "current_location": "khed",
+      "drop_location": "mumbai",
+      "driver_name": "momin",
+      "cab_number": "MH-43",
+      "cab_colour": "red",
+      "rating": 2,
+      "feed_back": "communication is not good"
+   },
+   {
+      "current_location": " SHivapur",
+      "drop_location": "shivaji",
+      "driver_name": "naveed",
+      "cab_number": "MH-65",
+      "cab_colour": "white",
+      "rating": 3,
+      "feed_back": "he is good driver"
+   },
+   {
+      "current_location": "katrij",
+      "drop_location": "tulsibagh",
+      "driver_name": "aadil",
+      "cab_number": "MH-98",
+      "cab_colour": "blue",
+      "rating": 4,
+      "feed_back": "amezing"
+   }
+]

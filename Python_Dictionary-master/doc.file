@@ -1,0 +1,36 @@
+import json
+
+dict={"current_location":"flora_institute","destination":"pune_station"}
+
+data={
+    {"name":"yash",
+    "vehicle":"auto",
+    "veh_no":"MH12_1234",
+    "colour":"black",
+    "phone_number":"1234567890",
+    "fare":"200",
+    "feedback":"good_in_driving"},
+
+    {"name":"parth",
+    "vehicle":"cab",
+    "veh_no":"MH13_2345",
+    "colour":"red",
+    "phone_number":"1231345690",
+    "fare":"150",
+    "feedback":"average_in_driving"},
+    
+    {"name":"rudra",
+    "vehicle":"auto",
+    "veh_no":"MH14_2745",
+    "colour":"yellow",
+    "phone_number":"1237563890",
+    "total_fare":"120",
+    "feedback":"bad_in_driving"},
+
+    {"name":"ved",
+    "vehicle":"cab",
+    "veh_no":"MH15_2755",
+    "colour":"red",
+    "phone_number":"1298535690",
+    "total_fare":"140"}
+}
